@@ -6,6 +6,237 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "Array.Sorting.InsertionSort",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Array.Sorting.SelectionSort",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "psv",
+            "request": "launch",
+            "mainClass": "Array.Sorting.psv",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "builtInSorting",
+            "request": "launch",
+            "mainClass": "Array.Sorting.builtInSorting",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "frequencyArray",
+            "request": "launch",
+            "mainClass": "Array.String.frequencyArray",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "Array.String.sorting",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "reverseEachWordSentence",
+            "request": "launch",
+            "mainClass": "Array.String.reverseEachWordSentence",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "ps1",
+            "request": "launch",
+            "mainClass": "Array.String.ps1",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "toggleChar",
+            "request": "launch",
+            "mainClass": "Array.String.toggleChar",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "equals",
+            "request": "launch",
+            "mainClass": "Array.String.equals",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "UpdateEvenPosition",
+            "request": "launch",
+            "mainClass": "Array.String.UpdateEvenPosition",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "modifyCharacterinString",
+            "request": "launch",
+            "mainClass": "Array.String.modifyCharacterinString",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "InputString",
+            "request": "launch",
+            "mainClass": "Array.String.InputString",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "WhyString",
+            "request": "launch",
+            "mainClass": "Array.String.WhyString",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "RowWiseColumnWiseprinting",
+            "request": "launch",
+            "mainClass": "Array.RowWiseColumnWiseprinting",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "MaxInArray",
+            "request": "launch",
+            "mainClass": "Array.MaxInArray",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoMatrix",
+            "request": "launch",
+            "mainClass": "Array.StarPlus.AddTwoMatrix",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "MarksRollnumber",
+            "request": "launch",
+            "mainClass": "Array.MarksRollnumber",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "TwoDimensional_Array",
+            "request": "launch",
+            "mainClass": "Array.TwoDimensional_Array",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "NextGreatestElement",
+            "request": "launch",
+            "mainClass": "Array.NextGreatestElement",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoSortArray",
+            "request": "launch",
+            "mainClass": "Array.MergeTwoSortArray",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "SortColors",
+            "request": "launch",
+            "mainClass": "Array.SortColors",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "SortOnesZeros",
+            "request": "launch",
+            "mainClass": "Array.SortOnesZeros",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "polymorphism",
+            "request": "launch",
+            "mainClass": "Array.polymorphism",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "calculator$polymorphism",
+            "request": "launch",
+            "mainClass": "calculator$polymorphism",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "Array.Polymorphism",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "Array.function",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "pq",
+            "request": "launch",
+            "mainClass": "Array.pq",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "StarPlus",
+            "request": "launch",
+            "mainClass": "Array.StarPlus.StarPlus",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "Input_array",
+            "request": "launch",
+            "mainClass": "Array.Input_array",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "inheritance",
+            "request": "launch",
+            "mainClass": "Array.inheritance",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "Alphabet_Traingle",
+            "request": "launch",
+            "mainClass": "Array.Pattern_Printing.Alphabet_Traingle",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
+            "name": "ps",
+            "request": "launch",
+            "mainClass": "Array.ps",
+            "projectName": "java with DSA_6705b3db"
+        },
+        {
+            "type": "java",
             "name": "Rhombus",
             "request": "launch",
             "mainClass": "Array.StarPlius.Rhombus",
